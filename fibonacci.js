@@ -15,3 +15,8 @@ function fibonnaci(n) {
   }
   
   fibonnaci(20);
+
+
+  recursiveFibonnaci(n) {
+    console.log(n)
+  }
