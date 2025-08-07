@@ -1,5 +1,5 @@
 class Queue {
-  constructor(val) {
+  constructor() {
     this.first = null;
     this.last = 0;
     this.size = 0;
